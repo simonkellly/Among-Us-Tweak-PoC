@@ -1,0 +1,10 @@
+Architecture: iphoneos-arm
+Author: root
+Depends: mobilesubstrate
+Description: Tweak For Among Us
+Maintainer: root
+Name: Mungy
+Package: com.amogus.mungy
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 448

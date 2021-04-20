@@ -1,0 +1,14 @@
+id: com.amogus.mungy
+version: 0.0.1
+desc: Tweak For Among Us
+icmd: sbreload
+depends: mobilesubstrate
+
+Mungy:
+  type: tweak
+  files:
+    - "*.xm"
+    - "utils/*.xm"
+  include:
+    - "utils/alert.hpp"
+    - "Resources/il2cpp.h"

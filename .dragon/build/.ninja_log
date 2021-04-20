@@ -1,0 +1,17 @@
+# ninja log v5
+1	961	1618697468696092926	.dragon/build/armv7/alert.xm.mm.o	e3d76a946e246f1
+0	93	1618688026687885486	.dragon/build/logos/alert.xm.mm	4ff4d82292035906
+4610	4632	1618715844448460998	.dragon/_/Library/MobileSubstrate/DynamicLibraries/Mungy.dylib	70d0c709319a92a9
+4583	4610	1618715844426347663	.dragon/sign/.dragon/_/Library/MobileSubstrate/DynamicLibraries/Mungy.dylib.unsigned	5afa2ba9651ddcc
+0	8	0	stage	389aecd4e40d088e
+2	932	1618697468660737804	.dragon/build/arm64e/alert.xm.mm.o	c78a556ba7383cd0
+4392	4569	1618715844380866549	.dragon/build/Mungy.arm64e	767a16abc7f5ddc4
+4347	4537	1618715844347764682	.dragon/build/Mungy.armv7	507282001dc15b0
+4569	4583	1618715844399906018	.dragon/sign/.dragon/_/Library/MobileSubstrate/DynamicLibraries/Mungy.dylib.unsym	bdcbe9f347f8b171
+95	4393	1618715844146151158	.dragon/build/arm64/Tweak.xm.mm.o	6b59c3932ff3ef30
+0	94	1618715839909519346	.dragon/build/logos/Tweak.xm.mm	952ab86b0749bc81
+94	4347	1618715844101279824	.dragon/build/armv7/Tweak.xm.mm.o	7768095864c6c64b
+2	932	1618697468660711206	.dragon/build/arm64/alert.xm.mm.o	8768a448c36d0a76
+95	4392	1618715844146180334	.dragon/build/arm64e/Tweak.xm.mm.o	3c74718499406d77
+4393	4569	1618715844380492337	.dragon/build/Mungy.arm64	9bad9858d060f187
+0	16	0	stage	389aecd4e40d088e
